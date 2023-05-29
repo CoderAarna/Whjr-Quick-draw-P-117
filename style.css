@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(98, 236, 183);
+    font-size: large;
+}
+#score_result{
+    font-size: 35px;
+    margin-right: 1300px;
+}
+#timer{
+    font-size:35px;
+    float:right;
+    margin-right: 40px;
+}
+#sketch_to_draw{
+    color:rgb(5, 92, 146);
+}
+h1{
+    font-family: 'Cinzel Decorative', cursive;
+    color: blueviolet;
+}
